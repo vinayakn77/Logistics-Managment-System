@@ -54,3 +54,5 @@ PHP for server-side scripting and database interactions.
 XAMPP for local development and testing.
 GitHub for version control and collaboration.
 The Logistics Management System is a comprehensive solution that enhances the efficiency, transparency, and overall effectiveness of logistics and supply chain operations. Its user-friendly interface, robust features, and secure architecture make it an invaluable tool for businesses looking to optimize their logistics processes.
+
+You can Reach me at (mailto:ravindravinayak777@gmail.com)
