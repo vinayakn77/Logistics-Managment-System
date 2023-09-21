@@ -1,4 +1,4 @@
-<b> The Logistics Management System is a robust and efficient web application designed to streamline and optimize logistics and supply chain operations. Built using a combination of HTML, CSS, JavaScript, PHP, and hosted on XAMPP, this system provides an end-to-end solution for managing the complexities of logistics in the modern business environment.<b>
+<b> The Logistics Management System is a robust and efficient web application designed to streamline and optimize logistics and supply chain operations. Built using a combination of HTML, CSS, JavaScript, PHP, and hosted on XAMPP, this system provides an end-to-end solution for managing the complexities of logistics in the modern business environment.</b>
 
 Key Features:
 
